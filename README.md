@@ -1,5 +1,5 @@
 # Terraform-project
 
-#Initializing Terraform
-** terraform init
+#  Initializing Terraform
+terraform init
 
